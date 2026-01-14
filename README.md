@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi,%20I'm%20Anas%20Jameel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20|%20Solo%20Dev&descAlignY=55&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi,%20I'm%20Anas%20Jameel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20|%20Solo%20Dev&descAlignY=55&descAlign=62" width="100%" alt="Header Image"/>
 </div>
 
 <div align="center">
@@ -24,12 +24,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** focused on building cross-platform mobile ecosystems. Unlike many developers who just write code, I focus on the full lifecycle: **Building, Deploying, and Marketing** applications.
+I'm a **Software Engineer** who prefers shipping products over just writing code. I specialize in building cross-platform mobile ecosystems and understanding the business side of deployment.
 
-* 📱 **Currently:** Leveraging **React Native** to build and publish production-ready Android apps to the Play Store.
-* 🧠 **AI Focus:** Strong interest in **Deep Learning** and Model Training. (Previously Shortlisted for **SIH Hackathon**).
-* 💼 **Experience:** Transitioned from Kotlin/Native Android to a cross-platform stack (React/Next.js/Vite).
-* 🤝 **Collaboration:** Looking to collaborate with other devs on **Machine Learning** projects and Research.
+* 📱 **Currently:** Leveraging **React Native** to publish production-ready Android apps to the Play Store.
+* 🧠 **AI Focus:** fascinated by **Deep Learning** and Model Training. (Previously Shortlisted for **SIH Hackathon**).
+* 💼 **Experience:** Transitioned from Kotlin/Native Android to a modern cross-platform stack (React/Next.js/Vite).
+* 🤝 **Collaboration:** Open to collaborating on **Machine Learning** research and ambitious app ideas.
 
 ---
 
@@ -52,12 +52,12 @@ I am a **Software Engineer** focused on building cross-platform mobile ecosystem
 
 <div align="center">
   <a href="https://github.com/anasjameel300">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anasjameel300&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9d1d9&icon_color=2bbc8a&bg_color=0d1117&hide_border=true&theme=react" alt="Anas's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anasjameel300&show_icons=true&count_private=true&title_color=ffffff&text_color=c9d1d9&icon_color=2bbc8a&bg_color=0d1117&hide_border=true&theme=react" alt="Anas's GitHub Stats" />
   </a>
   <br/>
-  <br/>
+  
   <a href="https://github.com/anasjameel300">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasjameel300&theme=react&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Anas's Streak" />
+    <img src="https://streak-stats.demolab.com?user=anasjameel300&theme=react&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Anas's Streak" />
   </a>
 </div>
 
@@ -65,11 +65,11 @@ I am a **Software Engineer** focused on building cross-platform mobile ecosystem
 
 ### 🎮 The Human Side
 
-When I'm not debugging React Native bridges or optimizing regression models, I am a dedicated single-player gamer.
+I'm not just a code machine. When the IDE closes, here is who I am:
 
-* ⚔️ **Currently Playing:** *The Witcher 3: Wild Hunt* (Again).
-* ⌚ **Hobby:** Mechanical Watches.
-* 🤖 **Philosophy:** I believe in using AI (like Cursor) to amplify developer productivity, not replace creativity.
+* ⚔️ **Current Obsession:** Hunting monsters in *The Witcher 3: Wild Hunt*.
+* ⌚ **Tinkering:** I build custom mechanical watches—because debugging tiny gears is just as hard as debugging code.
+* 🤖 **Philosophy:** I use AI tools like Cursor to speed up the boring stuff so I can spend more time solving the *actual* problems.
 
 ---
 
