@@ -52,38 +52,38 @@
     <text x="40" y="129.8" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">4</text>
     <line x1="50" y1="87.5" x2="855" y2="87.5" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3"/>
     <text x="40" y="91.5" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">6</text>
-    <text x="50.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 05</text>
-    <text x="211.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 11</text>
-    <text x="372.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 17</text>
-    <text x="533.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 23</text>
-    <text x="694.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 29</text>
-    <text x="855.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Sep 04</text>
+    <text x="50.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 06</text>
+    <text x="211.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 12</text>
+    <text x="372.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 18</text>
+    <text x="533.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 24</text>
+    <text x="694.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Aug 30</text>
+    <text x="855.0" y="220" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Sep 05</text>
   </g>
 
   <!-- Area Fill -->
-  <path class="flow-area" d="M 50.0,200.0 C 55.4,200.0 66.1,200.0 76.8,200.0 C 87.6,200.0 92.9,200.0 103.7,200.0 C 114.4,200.0 119.8,200.0 130.5,200.0 C 141.2,200.0 146.6,200.0 157.3,200.0 C 168.1,200.0 173.4,200.0 184.2,200.0 C 194.9,200.0 200.3,200.0 211.0,200.0 C 221.7,200.0 227.1,203.8 237.8,200.0 C 248.6,196.2 253.9,181.2 264.7,181.2 C 275.4,181.2 280.8,196.2 291.5,200.0 C 302.2,203.8 307.6,200.0 318.3,200.0 C 329.1,200.0 334.4,200.0 345.2,200.0 C 355.9,200.0 361.3,200.0 372.0,200.0 C 382.7,200.0 388.1,200.0 398.8,200.0 C 409.6,200.0 414.9,200.0 425.7,200.0 C 436.4,200.0 441.8,200.0 452.5,200.0 C 463.2,200.0 468.6,200.0 479.3,200.0 C 490.1,200.0 495.4,200.0 506.2,200.0 C 516.9,200.0 522.3,203.8 533.0,200.0 C 543.7,196.2 549.1,185.0 559.8,181.2 C 570.6,177.5 575.9,181.2 586.7,181.2 C 597.4,181.2 602.8,192.5 613.5,181.2 C 624.2,170.0 629.6,121.2 640.3,125.0 C 651.1,128.8 656.4,185.0 667.2,200.0 C 677.9,215.0 683.3,207.5 694.0,200.0 C 704.7,192.5 710.1,162.5 720.8,162.5 C 731.6,162.5 736.9,192.5 747.7,200.0 C 758.4,207.5 763.8,200.0 774.5,200.0 C 785.2,200.0 790.6,200.0 801.3,200.0 C 812.1,200.0 817.4,200.0 828.2,200.0 C 838.9,200.0 849.6,200.0 855.0,200.0 L 855.0,200 L 50.0,200 Z" fill="url(#curveGradient)"/>
+  <path class="flow-area" d="M 50.0,200.0 C 55.4,200.0 66.1,200.0 76.8,200.0 C 87.6,200.0 92.9,200.0 103.7,200.0 C 114.4,200.0 119.8,200.0 130.5,200.0 C 141.2,200.0 146.6,200.0 157.3,200.0 C 168.1,200.0 173.4,200.0 184.2,200.0 C 194.9,200.0 200.3,203.8 211.0,200.0 C 221.7,196.2 227.1,181.2 237.8,181.2 C 248.6,181.2 253.9,196.2 264.7,200.0 C 275.4,203.8 280.8,200.0 291.5,200.0 C 302.2,200.0 307.6,200.0 318.3,200.0 C 329.1,200.0 334.4,200.0 345.2,200.0 C 355.9,200.0 361.3,200.0 372.0,200.0 C 382.7,200.0 388.1,200.0 398.8,200.0 C 409.6,200.0 414.9,200.0 425.7,200.0 C 436.4,200.0 441.8,200.0 452.5,200.0 C 463.2,200.0 468.6,200.0 479.3,200.0 C 490.1,200.0 495.4,203.8 506.2,200.0 C 516.9,196.2 522.3,185.0 533.0,181.2 C 543.7,177.5 549.1,181.2 559.8,181.2 C 570.6,181.2 575.9,192.5 586.7,181.2 C 597.4,170.0 602.8,121.2 613.5,125.0 C 624.2,128.8 629.6,185.0 640.3,200.0 C 651.1,215.0 656.4,207.5 667.2,200.0 C 677.9,192.5 683.3,162.5 694.0,162.5 C 704.7,162.5 710.1,192.5 720.8,200.0 C 731.6,207.5 736.9,200.0 747.7,200.0 C 758.4,200.0 763.8,200.0 774.5,200.0 C 785.2,200.0 790.6,200.0 801.3,200.0 C 812.1,200.0 817.4,200.0 828.2,200.0 C 838.9,200.0 849.6,200.0 855.0,200.0 L 855.0,200 L 50.0,200 Z" fill="url(#curveGradient)"/>
 
   <!-- Spline Curve Line -->
-  <path class="flow-line" d="M 50.0,200.0 C 55.4,200.0 66.1,200.0 76.8,200.0 C 87.6,200.0 92.9,200.0 103.7,200.0 C 114.4,200.0 119.8,200.0 130.5,200.0 C 141.2,200.0 146.6,200.0 157.3,200.0 C 168.1,200.0 173.4,200.0 184.2,200.0 C 194.9,200.0 200.3,200.0 211.0,200.0 C 221.7,200.0 227.1,203.8 237.8,200.0 C 248.6,196.2 253.9,181.2 264.7,181.2 C 275.4,181.2 280.8,196.2 291.5,200.0 C 302.2,203.8 307.6,200.0 318.3,200.0 C 329.1,200.0 334.4,200.0 345.2,200.0 C 355.9,200.0 361.3,200.0 372.0,200.0 C 382.7,200.0 388.1,200.0 398.8,200.0 C 409.6,200.0 414.9,200.0 425.7,200.0 C 436.4,200.0 441.8,200.0 452.5,200.0 C 463.2,200.0 468.6,200.0 479.3,200.0 C 490.1,200.0 495.4,200.0 506.2,200.0 C 516.9,200.0 522.3,203.8 533.0,200.0 C 543.7,196.2 549.1,185.0 559.8,181.2 C 570.6,177.5 575.9,181.2 586.7,181.2 C 597.4,181.2 602.8,192.5 613.5,181.2 C 624.2,170.0 629.6,121.2 640.3,125.0 C 651.1,128.8 656.4,185.0 667.2,200.0 C 677.9,215.0 683.3,207.5 694.0,200.0 C 704.7,192.5 710.1,162.5 720.8,162.5 C 731.6,162.5 736.9,192.5 747.7,200.0 C 758.4,207.5 763.8,200.0 774.5,200.0 C 785.2,200.0 790.6,200.0 801.3,200.0 C 812.1,200.0 817.4,200.0 828.2,200.0 C 838.9,200.0 849.6,200.0 855.0,200.0" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="flow-line" d="M 50.0,200.0 C 55.4,200.0 66.1,200.0 76.8,200.0 C 87.6,200.0 92.9,200.0 103.7,200.0 C 114.4,200.0 119.8,200.0 130.5,200.0 C 141.2,200.0 146.6,200.0 157.3,200.0 C 168.1,200.0 173.4,200.0 184.2,200.0 C 194.9,200.0 200.3,203.8 211.0,200.0 C 221.7,196.2 227.1,181.2 237.8,181.2 C 248.6,181.2 253.9,196.2 264.7,200.0 C 275.4,203.8 280.8,200.0 291.5,200.0 C 302.2,200.0 307.6,200.0 318.3,200.0 C 329.1,200.0 334.4,200.0 345.2,200.0 C 355.9,200.0 361.3,200.0 372.0,200.0 C 382.7,200.0 388.1,200.0 398.8,200.0 C 409.6,200.0 414.9,200.0 425.7,200.0 C 436.4,200.0 441.8,200.0 452.5,200.0 C 463.2,200.0 468.6,200.0 479.3,200.0 C 490.1,200.0 495.4,203.8 506.2,200.0 C 516.9,196.2 522.3,185.0 533.0,181.2 C 543.7,177.5 549.1,181.2 559.8,181.2 C 570.6,181.2 575.9,192.5 586.7,181.2 C 597.4,170.0 602.8,121.2 613.5,125.0 C 624.2,128.8 629.6,185.0 640.3,200.0 C 651.1,215.0 656.4,207.5 667.2,200.0 C 677.9,192.5 683.3,162.5 694.0,162.5 C 704.7,162.5 710.1,192.5 720.8,200.0 C 731.6,207.5 736.9,200.0 747.7,200.0 C 758.4,200.0 763.8,200.0 774.5,200.0 C 785.2,200.0 790.6,200.0 801.3,200.0 C 812.1,200.0 817.4,200.0 828.2,200.0 C 838.9,200.0 849.6,200.0 855.0,200.0" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- Data Point Circles -->
   <g>
-    <circle cx="264.7" cy="181.2" r="2.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
+    <circle cx="237.8" cy="181.2" r="2.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
       <title>1 contribution on 2026-08-13</title>
     </circle>
-    <circle cx="559.8" cy="181.2" r="2.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
+    <circle cx="533.0" cy="181.2" r="2.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
       <title>1 contribution on 2026-08-24</title>
     </circle>
-    <circle cx="586.7" cy="181.2" r="2.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
+    <circle cx="559.8" cy="181.2" r="2.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
       <title>1 contribution on 2026-08-25</title>
     </circle>
-    <circle cx="613.5" cy="181.2" r="2.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
+    <circle cx="586.7" cy="181.2" r="2.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
       <title>1 contribution on 2026-08-26</title>
     </circle>
-    <circle cx="640.3" cy="125.0" r="3.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
+    <circle cx="613.5" cy="125.0" r="3.8" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
       <title>4 contributions on 2026-08-27</title>
     </circle>
-    <circle cx="720.8" cy="162.5" r="3.2" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
+    <circle cx="694.0" cy="162.5" r="3.2" fill="#ffffff" stroke="#0d1117" stroke-width="1.5">
       <title>2 contributions on 2026-08-30</title>
     </circle>
   </g>
